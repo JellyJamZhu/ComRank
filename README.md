@@ -17,3 +17,6 @@ coverage of test data, ranking loss of test data and average precision of test d
 ## Specify the dataset argument:
 - scene, scene_bia: scene dataset with uniform complementary labels and biased complementary labels
 - yeast, yeast_bia: yeast dataset with uniform complementary labels and biased complementary labels
+
+---
+If you have any other problems, feel free to contact me: https://jellyjamzhu.github.io/
