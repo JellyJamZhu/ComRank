@@ -19,8 +19,8 @@ coverage of test data, ranking loss of test data and average precision of test d
 - yeast, yeast_bia: yeast dataset with uniform complementary labels and biased complementary labels
 
 ---
-More about authors: 
-Jing-Yi Zhu: https://jellyjamzhu.github.io/
-Yi Gao: https://gaoyi439.github.io/
-Miao Xu: https://about.uq.edu.au/experts/26509/
-Min-Ling Zhang: https://palm.seu.edu.cn/zhangml/
+## More about authors: 
+- Jing-Yi Zhu: https://jellyjamzhu.github.io/
+- Yi Gao: https://gaoyi439.github.io/
+- Miao Xu: https://about.uq.edu.au/experts/26509/
+- Min-Ling Zhang: https://palm.seu.edu.cn/zhangml/
